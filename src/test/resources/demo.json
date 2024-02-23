@@ -1,0 +1,23 @@
+{
+  "_class": "com.example.demo.model.DataPack",
+  "items": {
+    "foo": {
+      "data": {
+        "_class": "com.example.demo.model.FooCollection"
+      }
+    },
+    "bar": {
+      "data": {
+        "_class": "com.example.demo.model.BarCollection",
+        "value": {
+          "values": [
+            {
+              "_class": "com.example.demo.model.DataValue",
+              "name": "Bar"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
